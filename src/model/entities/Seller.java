@@ -61,7 +61,7 @@ public class Seller implements Serializable {
 		this.birthDate = birthDate;
 	}
 
-	public Double getBaseSalaty() {
+	public Double getBaseSalary() {
 		return baseSalaty;
 	}
 
